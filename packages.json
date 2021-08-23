@@ -1,7 +1,7 @@
 {
     "packages": {
         "shambhu384/tiny-commerce": {
-            "dev-master": { @composer.json }
+            "dev-main": { @composer.json }
         }
     }
 }
