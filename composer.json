@@ -2,7 +2,7 @@
     "name": "tiny-commerce/tiny-commerce",
     "autoload": {
         "psr-4": {
-            "TinyCommerce\\TinyCommerce\\": "src/"
+            "TinyCommerce\\": "src/"
         }
     },
     "require": {}
